@@ -2,5 +2,5 @@
 main()
 {
 	printf("the satrt up code\n");
-	return 0;	
+	return 0;//new change	
 }
