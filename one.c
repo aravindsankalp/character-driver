@@ -2,5 +2,10 @@
 main()
 {
 	printf("the satrt up code\n");
-	return 0;	
+	printf("updated");
+		printf("updated");
+		printf("updated");
+		printf("updated");
+
+	return 0;//new change	
 }
